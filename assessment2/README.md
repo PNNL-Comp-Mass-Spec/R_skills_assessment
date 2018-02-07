@@ -1,10 +1,21 @@
 
----
-output:
-  html_document:
-     css: custom_style.css
-     self_contained: no
----
+<style>
+.table {
+   color: #01579B;
+   max-width: 50%;
+   width: 50%;
+   background-color: #FAFAFA;
+   margin-left: 130px;
+}
+
+.img {
+    border: 1px solid #01579B;
+    border-radius: 5px;
+    padding: 5px;
+    width: 80%;
+    margin-left: 130px;
+}
+</style>
 
 # Intro
 

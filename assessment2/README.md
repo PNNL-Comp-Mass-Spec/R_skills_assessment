@@ -1,22 +1,4 @@
 
-<style>
-.table {
-   color: #01579B;
-   max-width: 50%;
-   width: 50%;
-   background-color: #FAFAFA;
-   margin-left: 130px;
-}
-
-.img {
-    border: 1px solid #01579B;
-    border-radius: 5px;
-    padding: 5px;
-    width: 80%;
-    margin-left: 130px;
-}
-</style>
-
 # Intro
 
 This is one of typical tasks for dealing with proteomics data. It includes handling annotation, protein sequences and their visualization. Although you can use any of the packages that R offers, I suggest looking into [Bioconductor](http://www.bioconductor.org/) collection. Once you are done, please send back the R script(s) that does that job.

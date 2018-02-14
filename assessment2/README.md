@@ -25,6 +25,7 @@ Due to annotiation discrepancies for some RefSeq IDs there may not be a correspo
 | ACADM	|NP_000007|	  R.S\*DPDPKAPANK.A|        ACADM-S207 |
 | APC    |NP_000029|	R.NSSSST\*S\*PVSK.K|    APC-T2243S2244 |
 
+Note, the **mapping part of the script shouldn't be taking more then 5 minutes**. Please make sure it is efficient.
 
 4. Visualization step. The dataset covers 7131 genes. Please come up with some way of plotting positions of 
 phosphosites for each gene. The example maps are shown below. Improved ways or visualizing phosphorylation positions are welcome.
